@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.container {
+    background-color: brown;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+header {
+    background-color: darkgray;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: chartreuse;
+}
